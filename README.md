@@ -1,16 +1,10 @@
-# meals
+# Meals
 
-A new Flutter project.
+A small meals app I developed to get better at flutter
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Categorize meals according to their origin, type, or how fast it
+2. Show recipes of the chosen meals
+3. Add filters to the meals (Glutten free, Lactose, Vegan, or vegetarian)
+4. Some testing with animations
