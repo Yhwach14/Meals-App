@@ -1,4 +1,4 @@
-# Meals
+# Overview
 
 A small meals app I developed to get better at flutter
 
